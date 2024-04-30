@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CookingFitv2/1.0.0": {
+        "runtime": {
+          "CookingFitv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CookingFitv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
